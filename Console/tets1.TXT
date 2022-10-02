@@ -1,0 +1,16 @@
+	Hello teacher!
+	How many lives do cats have?
+        Answers:
+        5 lives 7 lives 9 lives
+        Your answer: 
+
+        How many sit in a meter?
+        Answers:
+        10 landings 100 landings 1000 landings
+        Your answer: 
+
+
+        What is the speed of sound?
+        Answers:
+        330 m/s 320 m/s 230 m/s
+        Your answer: 
