@@ -131,9 +131,15 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Answer.h" />
     <ClInclude Include="console.h" />
     <ClInclude Include="FileCryptor.h" />
     <ClInclude Include="menu.h" />
+    <ClInclude Include="Question.h" />
+    <ClInclude Include="QuestionView.h" />
+    <ClInclude Include="ServiceAutorization.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
