@@ -57,3 +57,7 @@ Your result is: 0%
 100%
 Your result is: 100%
 ----------------
+2+2=?
+100%
+Your result is: 100%
+----------------
